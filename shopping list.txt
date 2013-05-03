@@ -1,3 +1,5 @@
 spinach
 broccoli
 sausages
+spinach
+lettuce
