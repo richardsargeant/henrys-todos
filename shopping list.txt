@@ -1,5 +1,1 @@
-eggs
-milk
-butter
-bread
-cheese
+
