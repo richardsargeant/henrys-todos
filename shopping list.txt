@@ -3,3 +3,6 @@ milk
 butter
 bread
 cheese
+spinach
+broccoli
+sausages
